@@ -1,0 +1,29 @@
+.calculator-body {
+    display: flex;
+}
+
+.display  {
+    width: 200px;
+    height: 25px;
+    border: 1px solid black;
+}
+
+.button {
+text-align: center;
+    width: 25px;
+    border: 1px solid black;
+
+}
+
+.equals {
+    text-align: center;
+    width: 25px;
+    border: 1px solid black;
+
+}
+
+#clear {
+    text-align: center;
+    width: 25px;
+    border: 1px solid black;
+}
